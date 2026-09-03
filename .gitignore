@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+enigma
+main
+*.o
+*.class
+bin/
+.metadata/
+
